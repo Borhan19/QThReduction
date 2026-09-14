@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying manuscript."
+title: "QThReduction: Code for Finite-Particle Quantum Reduction of Thermodynamic Irreversibility"
+type: software
+authors:
+  - family-names: "Ahmadi"
+    given-names: "Borhan"
+version: "1.0-submission"
+date-released: "2026-09-14"
+repository-code: "https://github.com/Borhan19/QThReduction"
+license: MIT
+
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Ahmadi"
+      given-names: "Borhan"
+  title: "Finite-Particle Quantum Reduction of Thermodynamic Irreversibility"
+  year: 2026
