@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Operating systems
+.DS_Store
+Thumbs.db
+
+# Generated figures
+companion_paper_figures_final/
