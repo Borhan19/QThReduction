@@ -5,8 +5,7 @@ type: software
 authors:
   - family-names: "Ahmadi"
     given-names: "Borhan"
-version: "1.0-submission"
-date-released: "2026-09-14"
+version: "1.1-revision"
 repository-code: "https://github.com/Borhan19/QThReduction"
 license: MIT
 
